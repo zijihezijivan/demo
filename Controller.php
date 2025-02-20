@@ -12,3 +12,4 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
 33333333333333333
+44444444444444444
