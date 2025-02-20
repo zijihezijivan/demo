@@ -12,9 +12,3 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
 11111111111111111
-
-33333333333333333
-
-
-66666666666666666
-77777777777777777
