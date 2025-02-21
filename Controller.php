@@ -9,11 +9,12 @@ use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
 {nihao
-    
+
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
 11111111111111111
-22222222222
+22222222范德萨发222
+范德萨发
 33333333333333333
 55555555555555555
 77777777777777777
