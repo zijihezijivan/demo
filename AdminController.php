@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Validator;
 
 class AdminController extends Controller
 {
-    //
+    //ceshi
     public function index(Request $request)
     {
         // dump($request->session()->get('userInfo'));

@@ -8,7 +8,7 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
-{
+{nihao
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
 11111111111111111
