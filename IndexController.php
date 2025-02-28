@@ -1,6 +1,7 @@
 <?php
 
 fetch
+fetch
 namespace App\Http\Controllers;
 
 use App\Libs\RedisClient;
