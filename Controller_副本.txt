@@ -1,4 +1,4 @@
-bare 裸露的
+ffsdabare 裸露的
 git init --bare git_bare_repo
 
 assist 帮助协助
