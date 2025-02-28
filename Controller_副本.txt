@@ -3,3 +3,6 @@ git init --bare git_bare_repo
 
 assist 帮助协助
 Hello! How can I assist you today?
+
+
+
