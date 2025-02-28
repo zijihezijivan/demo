@@ -1,7 +1,7 @@
 <?php
 fdsfsd
 namespace App\Http\Controllers;
-fdsf
+fdsffsd
 use App\Models\AccessRecords;
 use App\Models\Devices;
 use App\Models\Merchant;
