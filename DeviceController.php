@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Devices;
-use App\Models\Merchant;
+use App\Models\Merchant;fdf
 use App\Models\ParkingLot;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
